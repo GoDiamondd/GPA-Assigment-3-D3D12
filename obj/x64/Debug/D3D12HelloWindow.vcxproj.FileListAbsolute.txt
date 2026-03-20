@@ -1,0 +1,4 @@
+C:\Users\User\Downloads\HelloWindow\bin\x64\Debug\D3D12\D3D12Core.dll
+C:\Users\User\Downloads\HelloWindow\bin\x64\Debug\D3D12\D3D12Core.pdb
+C:\Users\User\Downloads\HelloWindow\bin\x64\Debug\D3D12\D3D12SDKLayers.dll
+C:\Users\User\Downloads\HelloWindow\bin\x64\Debug\D3D12\D3D12SDKLayers.pdb
